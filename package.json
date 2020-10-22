@@ -1,0 +1,24 @@
+{
+  "name": "cra-template-admin-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "template.json",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
