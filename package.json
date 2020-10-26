@@ -20,7 +20,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "access": "publish",
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "vegawong",
   "files": [
     "template",
