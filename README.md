@@ -7,11 +7,11 @@ To use this template, add `--template admin-typerscript` when creating a new app
 For example:
 
 ```sh
-npx create-react-app my-app --template admin-typerscript
+npx create-react-app my-app --template @vegawong/admin-typerscript
 
 # or
 
-yarn create react-app my-app --template admin-typerscript
+yarn create react-app my-app --template @vegawong/admin-typerscript
 ```
 
 For more information, please refer to:
